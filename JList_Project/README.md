@@ -1,7 +1,11 @@
 Öğrenci isimlerini listeleyebileceğimiz JList'imiz var (lstStudents)
+
 Öğrenci isimlerini yazabileceğimiz bir JTextFile'ımız var. (TxtName)
+
 Öğrencileri listeye ekleyebileceğimiz bir JButton'ımız var. (lblAddStudent)
+
 Öğrencileri isimlerini TextFile alanına girdiğimizde listeden silen bir JButton'ımız var. (lblRemoveStudent)
+
 Öğrencileri imleç ile seçtiğimizde listeden silen bir JButton'ımız var. (lblRemoveSelected)
 
 ![5](https://user-images.githubusercontent.com/114020260/220412155-59fd1b25-420a-4bb1-86ec-67b825dd7379.PNG)
