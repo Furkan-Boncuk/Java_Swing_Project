@@ -17,7 +17,7 @@ public class NewJFrame extends javax.swing.JFrame {
                 model.addRow(row); //Satırlarımızı ekleyelim
             }
         }catch(SQLException e){
-            
+            DBHelper.showErrorMessage(e);
         }
     }
     
